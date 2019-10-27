@@ -5,6 +5,6 @@ setup(name='igMod',
       description='igMods bc4',
       author='bc4',
       packages=['IGMods'],
-      download_url='https://github.com/bymathears/bc4/tree/0.1/igMods',
+      download_url='https://github.com/bymathears/bc4/tree/0.1/igMods/igMods',
       install_requires=['instapy',],
       zip_safe=False)
